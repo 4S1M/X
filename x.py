@@ -145,9 +145,9 @@ def banner():
 	ban=''' © MASTER MIND JOKER MAFI'A
    ___   _____ ______  ___
    /   | / ___//  _/  |/  /
-/ /| | \__ \ / // /|_/ /  [•] NXT-ASIM
-/ ___ |___/ // // /  / /   [•] Facebook: Asim Chakma
-/_/  |_/____/___/_/  /_/ [•] NXT�TEAM                                     '''
+/ /| | \__ \ / // /|_/ /  [•] Mr Qureshi xd
+/ ___ |___/ // // /  / /   [•] Facebook: MrQureshi-xd
+/_/  |_/____/___/_/  /_/ [•] Master Mind🥺❤️                                      '''
 	cetak(nel(ban, style='white'))
 #--------------------[ BAGIAN-MASUK ]--------------#
 def login():
